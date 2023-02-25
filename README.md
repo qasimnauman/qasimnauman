@@ -27,9 +27,9 @@ Hi there! 👋 My name is Muhammad Qasim Nauman and I am a 2nd-semester computer
 
 <p>
     <summary><b>Languages</b></summary>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <a href="https://cplusplus.com/" target="_blank">
+        <img alt="c++"
+            src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus">
     </a>
     <a href="https://www.python.org" target="_blank">
         <img alt="Python"
