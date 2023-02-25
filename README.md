@@ -29,16 +29,17 @@ Hi there! 👋 My name is Muhammad Qasim Nauman and I am a 2nd-semester computer
     <summary><b>Languages</b></summary>
     <a href="https://cplusplus.com/" target="_blank">
         <img alt="C++"
-            src="https://img.shields.io/badge/-Python-black?logo=Python&style=social">
+            src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     </a>
     <a href="https://www.python.org" target="_blank">
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img alt="CSS"
-            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
+        <a href="https://www.w3schools.com/html/" target="_blank">
+                <img alt="HTML"
+                     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+        
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img alt="CSS"
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
