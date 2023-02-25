@@ -29,7 +29,7 @@ Hi there! 👋 My name is Muhammad Qasim Nauman and I am a 2nd-semester computer
     <summary><b>Languages</b></summary>
     <a href="https://cplusplus.com/" target="_blank">
         <img alt="C++"
-            src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+            src="https://img.shields.io/badge/-Python-black?logo=Python&style=social">
     </a>
     <a href="https://www.python.org" target="_blank">
         <img alt="Python"
