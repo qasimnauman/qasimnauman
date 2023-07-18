@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Muhammad Qasim Nauman and I am a 2nd-semester computer science student at Air University, Islamabad. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I love to design amazing stuff as well. I love the streets as well which I sometime try to capture with my camera.
+Hi there! 👋 I am Muhammad Qasim Nauman, a computer science student at Air University, Islamabad. I am a proactive learner and enjoy staying up to date with the latest trends and developments in computer science. I love to design fantastic stuff as well. I love the streets as well which I sometimes try to capture with my camera.
 
 ## 👯 Connect with me
 <p>
