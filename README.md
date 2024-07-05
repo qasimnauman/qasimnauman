@@ -1,60 +1,24 @@
 <h1 align="center">Hey , I'm Muhammad Qasim Nauman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
+<h3 align="center">A Full Stack and DevOps Enginneer</h3>
 
-## :sassy_man: About me
-Hi there! 👋 I am Muhammad Qasim Nauman, a computer science student at Air University, Islamabad. I am a proactive learner and enjoy staying up to date with the latest trends and developments in computer science. I love to design fantastic stuff as well. I love the streets as well which I sometimes try to capture with my camera.
+- 📝 I regularly write articles on [https://medium.com/@m.qasimnauman](https://medium.com/@m.qasimnauman)
 
-## 👯 Connect with me
-<p>
-    <a href="https://www.linkedin.com/in/muhammad-qasim-nauman-567073246/" target="_blank">
-        <img alt="JavaScript"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.qasimnauman@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://github.com/qasimnauman" target="_blank">
-        <img alt="Gmail"
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-</p>
+- 📫 How to reach me **m.qasimnauman@gmail.com**
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimnauman&label=Profile%20views&color=0e75b6&style=flat" alt="qasimnauman" /> </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimnauman&theme=algolia"
-        alt="qasimnauman" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qasimnauman" alt="qasimnauman" /></a> </p>
 
-## 🛠️ My Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mqasimnauman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@qasimnauman) 
 
-<p>
-    <summary><b>Languages</b></summary>
-    <a href="https://cplusplus.com/" target="_blank">
-        <img alt="c++"
-            src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML"
-         src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS"
-         src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <br />
-    <br />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qasimnauman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qasimnauman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimnauman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 Github Stats
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Qasim Nauman's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=qasimnauman&show_icons=true&count_private=true&theme=algolia"
-            height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimnauman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="qasimnauman" height="192px" />
-    <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-    experience or skill level.
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=qasimnauman&limit=5&theme=dark&combine_all_yearly_contributions=true)
