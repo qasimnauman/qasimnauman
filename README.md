@@ -1,6 +1,6 @@
 <h1 align="center">Hey , I'm Muhammad Qasim Nauman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
-<h3 align="center">A Full Stack and DevOps Enginneer</h3>
+<h3 align="center">A DevOps Enginneer</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@m.qasimnauman](https://medium.com/@m.qasimnauman)
 
